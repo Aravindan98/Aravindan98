@@ -1,2 +1,2 @@
-👋 Hi, I’m @Aravindan98. I am a Math+CS senior at BITS Pilani, Pilani Campus. Welcome to my repository.
+👋 Hi, I’m @Aravindan98. Welcome to my repository!
 
